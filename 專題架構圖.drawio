@@ -131,17 +131,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXv6Gstz1RIkqRLSq7a9-8" value="f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#FFFFFF);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="yrDGB-GyLGz6xzUUA2pM-1">
+        <mxCell id="fXv6Gstz1RIkqRLSq7a9-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#AAAAAA);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="yrDGB-GyLGz6xzUUA2pM-1">
           <mxGeometry x="68.25" y="526" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXv6Gstz1RIkqRLSq7a9-9" value="f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#FFFFFF);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="yrDGB-GyLGz6xzUUA2pM-1">
+        <mxCell id="fXv6Gstz1RIkqRLSq7a9-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#AAAAAA);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="yrDGB-GyLGz6xzUUA2pM-1">
           <mxGeometry x="200" y="526" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fXv6Gstz1RIkqRLSq7a9-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 20px;&quot;&gt;Scheduler&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="yrDGB-GyLGz6xzUUA2pM-1">
-          <mxGeometry x="68.25" y="536" width="125" height="40" as="geometry" />
+          <mxGeometry x="65.75" y="536" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fXv6Gstz1RIkqRLSq7a9-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 20px;&quot;&gt;Log&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="yrDGB-GyLGz6xzUUA2pM-1">
-          <mxGeometry x="200" y="536" width="125" height="40" as="geometry" />
+          <mxGeometry x="197.5" y="536" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrDGB-GyLGz6xzUUA2pM-8" value="NJR201 第四組專題 架構圖" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="120" width="1450" height="40" as="geometry" />
